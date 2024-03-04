@@ -7,8 +7,8 @@ export default () => (
     theme={{
       components: {
         Rate: {
-          starColor: 'blue',
-          starSize: 40,
+          starColor: 'yellow',
+          starSize: 20,
           starHoverScale: 'scale(2)',
           starBg: 'red',
         },
